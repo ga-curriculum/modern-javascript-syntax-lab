@@ -26,7 +26,7 @@ Estimated time to complete core lab exercise: **60 min**
 
 ### Solution code
 
-🏁 [Solution Code](https://git.generalassemb.ly/modular-curriculum-all-courses/modern-javascript-syntax-lab-solution)
+🏁 [Solution Code](https://github.com/ga-curriculum/modern-javascript-syntax-lab-solution)
 
 ### Course landing pages
 
